@@ -4,7 +4,7 @@
 #
 Name     : golang-github-opencontainers-runc
 Version  : d14b04a33147e4a7471e362743d95a7492b130e3
-Release  : 3
+Release  : 4
 URL      : https://github.com/opencontainers/runc/archive/d14b04a33147e4a7471e362743d95a7492b130e3.tar.gz
 Source0  : https://github.com/opencontainers/runc/archive/d14b04a33147e4a7471e362743d95a7492b130e3.tar.gz
 Summary  : No detailed summary available
